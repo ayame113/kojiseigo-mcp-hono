@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "kojiseigo-mcp-debug": {
+      "type": "http",
+      "url": "http://localhost:5503/mcp"
+    },
+    "kojiseigo-mcp": {
+      "type": "http",
+      "url": "https://kojiseigo-mcp.deno.dev/mcp"
+    }
+  }
+}
