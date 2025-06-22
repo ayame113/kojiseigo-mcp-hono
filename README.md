@@ -4,7 +4,9 @@
 originate from historical events, classical literature, or ancient anecdotes,
 mainly from Chinese history and texts.
 
-# Usage
+This repository implements a Hono-based MCP server that serves kojiseigo.
+
+## Usage
 
 The remote MCP server is available at https://kojiseigo-mcp.deno.dev/mcp .
 
@@ -20,13 +22,13 @@ The remote MCP server is available at https://kojiseigo-mcp.deno.dev/mcp .
 }
 ```
 
-# local development
+## local development
 
 ```
 $ deno task start
 ```
 
-# Example
+## Example
 
 ```
 please code review for this project with kojiseigo.
